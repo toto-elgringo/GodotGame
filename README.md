@@ -1,13 +1,24 @@
 # GodotGame
-Jeu Godot en 2D en langage GDScript
+Jeu Godot 2D réalisé en suivant le tutoriel YouTube de **Brackeys** :
+[How to make a Video Game - Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0&t=4489s)
+*(1h17 — couvre la création complète d'un jeu de A à Z avec Godot)*
 
-Jeux 2D créés avec le moteur de jeu Godot en utilisant GDScript. Jeux de plateforme où le but est de collecter des pièces tout en évitant les trous et les ennemis.
+---
 
-Pour utiliser ce projet il suffit de télécharger le fichier .exe et de le lancer
+Jeu de plateforme 2D développé avec le moteur Godot en GDScript. Le but est de collecter des pièces tout en évitant les trous et les ennemis.
 
-Compétences et concepts abordés :
-- Moteur de jeu : compréhension approfondie du fonctionnement de Godot : scènes, nœuds, signaux
-- Physique 2D : implémentation des collisions, des forces et des mouvements d'objets.
-- Shaders : création d'effets visuels à l'aide de shaders 2D.
+## Télécharger le jeu
 
-Durée estimée : 8 heures de codage
+[Télécharger Game.exe](https://github.com/toto-elgringo/GodotGame/raw/main/Game.exe)
+
+> Windows uniquement — lancez simplement le fichier `.exe`, aucune installation requise.
+
+## Compétences et concepts abordés
+
+- **Moteur Godot** : scènes, nœuds, signaux
+- **Physique 2D** : collisions, forces et mouvements
+- **Shaders** : effets visuels 2D
+
+## Durée
+
+~8 heures de codage
